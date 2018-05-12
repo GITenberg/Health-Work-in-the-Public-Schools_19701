@@ -1,0 +1,32 @@
+_repo: Health-Work-in-the-Public-Schools_19701
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ayres, Leonard Porter
+    birthdate: 1879
+    deathdate: 1946
+    gutenberg_agent_id: '8822'
+    url: http://www.gutenberg.org/2009/agents/8822
+    wikipedia: http://en.wikipedia.org/wiki/Leonard_Porter_Ayres
+  - agent_name: Ayres, May
+    gutenberg_agent_id: '8823'
+    url: http://www.gutenberg.org/2009/agents/8823
+description: ''
+gutenberg_issued: '2006-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19701'
+  lccn: '15026786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Public schools -- Ohio -- Cleveland'
+- !lcc 'LA'
+- !lcsh 'Schools -- Medical examinations'
+title: Health Work in the Public Schools
+url: http://www.gutenberg.org/ebooks/19701
